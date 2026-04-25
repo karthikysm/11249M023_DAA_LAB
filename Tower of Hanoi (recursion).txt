@@ -1,0 +1,8 @@
+Enter a string: 123
+Permutations are:
+123
+132
+213
+231
+321
+312

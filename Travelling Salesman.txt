@@ -1,0 +1,7 @@
+Enter number of cities: 4
+Enter cost matrix:
+0 6 7 2
+8 0 16 23
+32 18 0 21
+8 6 10 0
+Minimum travelling cost: 38

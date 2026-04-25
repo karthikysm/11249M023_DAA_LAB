@@ -1,0 +1,9 @@
+Enter no of disks:3
+
+move disk 1 from A to C
+Move 2 disk from A to B
+move disk 1 from C to B
+Move 3 disk from A to C
+move disk 1 from B to A
+Move 2 disk from B to C
+move disk 1 from A to C

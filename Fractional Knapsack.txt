@@ -1,0 +1,7 @@
+Enter number of items: 5
+Enter weights:
+4 5 6 9 2
+Enter profits:
+3 7 4 9 1
+Enter capacity: 15
+Maximum profit: 16.75

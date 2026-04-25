@@ -1,0 +1,9 @@
+Enter number of items: 4
+Enter weights of items:
+3 2 5 6
+Enter bin capacity: 9
+Item 3.00 placed in Bin 1
+Item 2.00 placed in Bin 1
+Item 5.00 placed in Bin 2
+Item 6.00 placed in Bin 3
+Total bins used: 3
